@@ -62,16 +62,6 @@ cd portfolio
 
 Open "index.html" in your browser.
 
-You can also use the Live Server extension in Visual Studio Code for a better development experience.
-
-📸 Screenshots
-
-Add screenshots of your portfolio here:
-
-![Portfolio Homepage](images/portfolio-home.png)
-
-🎯 Purpose of the Project
-
 This portfolio was created to:
 
 - Showcase my web development skills
